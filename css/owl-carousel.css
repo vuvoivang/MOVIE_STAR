@@ -1,0 +1,22 @@
+.owl-carousel .owl-nav {
+  font-size: 60px;
+  color: rgb(236, 117, 50);
+  position: absolute;
+  top: 35%;
+  left: -5%;
+}
+.owl-carousel .owl-nav:focus {
+  outline: none;
+  border: none !important;
+}
+.owl-carousel .owl-nav span:focus {
+  outline: none;
+  border: transparent;
+}
+.owl-carousel .owl-nav .owl-next {
+  position: relative;
+  left: 1170px;
+}
+.owl-carousel .owl-dots {
+  display: none;
+}
